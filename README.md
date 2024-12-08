@@ -1,3 +1,6 @@
+
+![Image Alt](https://github.com/aakashmohikar/Sales-and-Customer-Insights-Dashboard/blob/39d842756ca2198d12200b85a2d73bc04551996c/Sales%20and%20Customer%20Insight%20Dashboard%20Image.jpg)
+
 # Sales-and-Customer-Insights-Dashboard
 
 ## Description
